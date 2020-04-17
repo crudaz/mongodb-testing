@@ -9,12 +9,12 @@
   },
   "devDependencies": {
     "jest": "^24.9.0",
-    "node-red": "^1.0.1",
+    "node-red": "^1.0.5",
     "node-red-node-test-helper": "^0.2.3"
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.5",
+    "mongoose": "^5.9.9",
     "sinon": "^7.5.0",
     "supertest": "^4.0.2"
   }
